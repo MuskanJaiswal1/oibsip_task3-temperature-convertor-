@@ -28,3 +28,7 @@ Styling is implemented with CSS to provide an aesthetically pleasing and respons
 ### JavaScript
 The core functionality of the Temperature Converter is powered by JavaScript, allowing for dynamic and interactive temperature conversions without the need for page reloads.
 
+
+![Screenshot 2024-01-10 173117](https://github.com/MuskanJaiswal1/temperature-convertor/assets/119117722/9ba05570-b543-4caa-b542-f9bacd11dd21)
+
+![Screenshot 2024-01-10 173150](https://github.com/MuskanJaiswal1/temperature-convertor/assets/119117722/9c4fd5f6-9c9c-4a5a-9dab-30d375a7c965)
